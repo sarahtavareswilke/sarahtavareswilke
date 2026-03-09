@@ -8,7 +8,6 @@ Welcome to my profile:
 - 📫 How to reach me: sarahtavareswilke@gmail.com
 - 😄 Pronouns: she/her
 - I have some private projects such as https://ckvieirabeauty.com/
-- ⚡ Fun fact: I’m passionate about dogs and have one named Tequila! 🐶
 
 ## Technologies
 
