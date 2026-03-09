@@ -7,6 +7,7 @@ Welcome to my profile:
 - 💬 Ask me about JavaScript, React, Node.js, Java or anything related to full-stack development.
 - 📫 How to reach me: sarahtavareswilke@gmail.com
 - 😄 Pronouns: she/her
+- I have some private projects such as https://ckvieirabeauty.com/
 - ⚡ Fun fact: I’m passionate about dogs and have one named Tequila! 🐶
 
 ## Technologies
